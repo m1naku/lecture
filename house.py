@@ -53,5 +53,5 @@ def draw_house_roof(x, y, width, height):
 
 
 
-
-main()
+if __name__ == "__main__":
+    main()
