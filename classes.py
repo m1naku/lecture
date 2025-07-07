@@ -32,4 +32,8 @@ def main():
             finish = True
     print('You win!')
 
+
+class Npc:
+    pass
+
 main()
